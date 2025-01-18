@@ -77,12 +77,12 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 ![Ruhul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhulamin-pro&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-pro&layout=compact&theme=radical)
 
----
+--- -->
 
 
 ## 🌐 Connect With Me

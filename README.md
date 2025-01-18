@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 
 - 🌱 **Who I Am:** A simple and friendly person who values a clear mind and enjoys doing what I love.
 - 🎓 **Education:** Bachelor of Science in Computer Science and Engineering (CSE).
-- 💼 **Experience:** Worked on government, non-government, educational, financial, inventory, and HR management projects. Notably contributed to integrating the BRTA Business Process into the ACS System for the Finance Division of the Ministry of Finance.
+- 💼 **Experience:** I have 8 years of experience as a full-stack web developer. I have worked on government, non-government, educational, financial, inventory, and HR management projects. Notably contributed to integrating the BRTA Business Process into the ACS System for the Finance Division of the Ministry of Finance.
 - 💡 **Passion:** Creating seamless user experiences and robust backends to support them.
 <!-- - 🧠 **Currently Learning:** Advanced React patterns and Kafka integration. -->
 
@@ -17,24 +17,24 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 ## 🛠️ Skills & Tools
 
 ### **Programming Languages**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)       8 years
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 8 years
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)     2 years
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 2 years
 
 
 ### **Backend Framework**
-![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 
 ### **Frontend Technologies**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
-![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) React
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) Vue.js
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) Next.js
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white) Nuxt.js
+![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white) Quasar
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -48,8 +48,11 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ---
 

@@ -17,25 +17,25 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 ## 🛠️ Skills & Tools
 
 ### **Programming Languages**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)       9 years  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)       9 years  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 9 years  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 9 years  
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 2 years  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 2 years  
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 2 years  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 2 years  
 
 <!-- ### **Backend Framework**
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)    6 years  
-![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)    2 years  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)    2 years  
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)    1 years   -->
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)    6 years  
+![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)    2 years  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)    2 years  
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)    1 years   -->
 
 ---
 
 ### **Backend Frameworks**
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 6 years  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 6 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <!-- <span style="font-size:12px;">Progress</span> -->
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
   </div>
 </div>
 
-![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 2 years  
+![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <!-- <span style="font-size:12px;">Progress</span> -->
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
   </div>
 </div>
 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) 2 years  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <!-- <span style="font-size:12px;">Progress</span> -->
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
   </div>
 </div>
 
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) 1 year  
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 1 year  
 <div style="margin-top:-20px; margin-bottom:20px">
   <!-- <span style="font-size:12px;">Progress</span> -->
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
@@ -74,35 +74,35 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 ---
 
 ### **Frontend Technologies**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  2 years  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 90%; background-color: #61DAFB; height: 8px; border-radius: 5px;"></div>
   </div>
 </div>
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  6 years  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  6 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 95%; background-color: #4FC08D; height: 8px; border-radius: 5px;"></div>
   </div>
 </div>
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  2 years  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 70%; background-color: #000000; height: 8px; border-radius: 5px;"></div>
   </div>
 </div>
 
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)  2 years  
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)  2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 90%; background-color: #00C58E; height: 8px; border-radius: 5px;"></div>
   </div>
 </div>
 
-![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)  1 years  
+![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)  1 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 90%; background-color: #1976D2; height: 8px; border-radius: 5px;"></div>
@@ -113,14 +113,14 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 ---
 
 ### **CSS Framework**
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  8 years  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  8 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 90%; background-color: #7952B3; height: 8px; border-radius: 5px;"></div>
   </div>
 </div>
 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 2 years  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 90%; background-color: #38B2AC; height: 8px; border-radius: 5px;"></div>
@@ -128,7 +128,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 </div>
 
 
-![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)   1 years  
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)   1 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 80%; background-color: #00D1B2; height: 8px; border-radius: 5px;"></div>
@@ -136,7 +136,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 </div>
 
 
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)  1 years  
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  1 years  
 <div style="margin-top:-20px; margin-bottom:20px">
   <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
     <div style="width: 50%; background-color: #0081CB; height: 8px; border-radius: 5px;"></div>
@@ -147,17 +147,17 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 ---
 
 ### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)  
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
 
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)  
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 
 ---
 
@@ -194,16 +194,16 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 
 ## 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/ruhul14" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>  
 <a href="https://ruhul-portfolio-next.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>  
 <a href="mailto:ruhulrahman2233@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>  
 <a href="https://www.youtube.com/@RuhulAmin1402" target="_blank">
-  <img src="https://img.shields.io/badge/-Youtube-FF0033?style=flat-square&logo=youtube&logoColor=white" alt="Youtube">
+  <img src="https://img.shields.io/badge/-Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
 </a>  
 
 ---

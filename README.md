@@ -86,9 +86,15 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhul14)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ruhul-portfolio-next.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruhulrahman2233@gmail.com)
+<a href="https://www.linkedin.com/in/ruhul14" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>  
+<a href="https://ruhul-portfolio-next.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>  
+<a href="mailto:ruhulrahman2233@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>  
 
 ---
 

@@ -77,36 +77,51 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 ### **Frontend Technologies**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <div style="width: 90%; background-color: #61DAFB; height: 8px; border-radius: 5px;"></div>
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#61DAFB 0% 90%, #e0e0e0 90% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #61DAFB;">
+      90%
+    </div>
   </div>
 </div>
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  6 years  
 <div style="margin-top:-20px; margin-bottom:20px">
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <div style="width: 95%; background-color: #4FC08D; height: 8px; border-radius: 5px;"></div>
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#4FC08D 0% 95%, #e0e0e0 95% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #4FC08D;">
+      95%
+    </div>
   </div>
 </div>
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <div style="width: 70%; background-color: #000000; height: 8px; border-radius: 5px;"></div>
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#000000 0% 70%, #e0e0e0 70% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #000000;">
+      70%
+    </div>
   </div>
 </div>
 
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)  2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <div style="width: 90%; background-color: #00C58E; height: 8px; border-radius: 5px;"></div>
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#00C58E 0% 90%, #e0e0e0 90% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #00C58E;">
+      90%
+    </div>
   </div>
 </div>
 
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)  1 years  
 <div style="margin-top:-20px; margin-bottom:20px">
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <div style="width: 90%; background-color: #1976D2; height: 8px; border-radius: 5px;"></div>
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#1976D2 0% 90%, #e0e0e0 90% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #1976D2;">
+      90%
+    </div>
   </div>
 </div>
 

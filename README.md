@@ -32,39 +32,43 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 
 ### **Backend Frameworks**
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 6 years  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 6 years
 <div style="margin-top:-20px; margin-bottom:20px">
-  <!-- <span style="font-size:12px;">Progress</span> -->
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <!-- <span style="width: 20%; font-size: 8px;">Laravel</span> -->
-    <div style="width: 90%; background-color: #FF2D20; height: 8px; border-radius: 5px;"></div>
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#FF2D20 0% 90%, #e0e0e0 90% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #FF2D20;">
+      90%
+    </div>
   </div>
 </div>
 
 ![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
-  <!-- <span style="font-size:12px;">Progress</span> -->
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <!-- <span style="width: 20%; font-size: 12px;">Spring Boot</span> -->
-    <div style="width: 90%; background-color: #6DB33F; height: 8px; border-radius: 5px;"></div>
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#6DB33F 0% 85%, #e0e0e0 85% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #6DB33F;">
+      85%
+    </div>
   </div>
 </div>
 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) 2 years  
 <div style="margin-top:-20px; margin-bottom:20px">
-  <!-- <span style="font-size:12px;">Progress</span> -->
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <!-- <span style="width: 20%; font-size: 12px;">Express.js</span> -->
-    <div style="width: 80%; background-color: #000000; height: 8px; border-radius: 5px;"></div>
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#000000 0% 70%, #e0e0e0 70% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #000000;">
+      70%
+    </div>
   </div>
 </div>
 
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) 1 year  
 <div style="margin-top:-20px; margin-bottom:20px">
-  <!-- <span style="font-size:12px;">Progress</span> -->
-  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
-    <!-- <span style="width: 20%; font-size: 12px;">Nest.js</span> -->
-    <div style="width: 60%; background-color: #E0234E; height: 8px; border-radius: 5px;"></div>
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#E0234E 0% 50%, #e0e0e0 50% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #E0234E;">
+      50%
+    </div>
   </div>
 </div>
 
@@ -107,47 +111,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 </div>
 
 
-### **Backend Frameworks**
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 6 years  
-<div style="margin-top:-20px;">
-  <span style="font-size:12px;">Progress</span>
-  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#FF2D20 0% 90%, #e0e0e0 90% 100%); display: flex; justify-content: center; align-items: center;">
-    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #FF2D20;">
-      90%
-    </div>
-  </div>
-</div>
-
-![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 2 years  
-<div style="margin-top:-20px;">
-  <span style="font-size:12px;">Progress</span>
-  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#6DB33F 0% 85%, #e0e0e0 85% 100%); display: flex; justify-content: center; align-items: center;">
-    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #6DB33F;">
-      85%
-    </div>
-  </div>
-</div>
-
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) 2 years  
-<div style="margin-top:-20px;">
-  <span style="font-size:12px;">Progress</span>
-  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#000000 0% 70%, #e0e0e0 70% 100%); display: flex; justify-content: center; align-items: center;">
-    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #000000;">
-      70%
-    </div>
-  </div>
-</div>
-
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) 1 year  
-<div style="margin-top:-20px;">
-  <span style="font-size:12px;">Progress</span>
-  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#E0234E 0% 50%, #e0e0e0 50% 100%); display: flex; justify-content: center; align-items: center;">
-    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #E0234E;">
-      50%
-    </div>
-  </div>
-</div>
 
 
 

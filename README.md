@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 - 🌱 **Who I Am:** A simple and friendly person who values a clear mind and enjoys doing what I love.
 - 🎓 **Education:** Bachelor of Science in Computer Science and Engineering (CSE).
 - 💼 **Experience:** I have 8 years of experience as a full-stack web developer. I have worked on government, non-government, educational, financial, inventory, and HR management projects. Notably contributed to integrating the BRTA Business Process into the ACS System for the Finance Division of the Ministry of Finance.
-- 💡 **Passion:** Creating seamless user experiences and robust backends to support them.
+- 💡 **Passion:** Learning new technologies and developing modern applications.
 <!-- - 🧠 **Currently Learning:** Advanced React patterns and Kafka integration. -->
 
 ---

@@ -17,32 +17,185 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 ## 🛠️ Skills & Tools
 
 ### **Programming Languages**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)       8 years  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)       9 years  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 8 years  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 2 years  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 2 years  
 
-### **Backend Framework**
+<!-- ### **Backend Framework**
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)    6 years  
 ![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)    2 years  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)    2 years  
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)    1 years  
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)    1 years   -->
+
+---
+
+### **Backend Frameworks**
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 6 years  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <!-- <span style="width: 20%; font-size: 8px;">Laravel</span> -->
+    <div style="width: 90%; background-color: #FF2D20; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
+
+![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 2 years  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <!-- <span style="width: 20%; font-size: 12px;">Spring Boot</span> -->
+    <div style="width: 90%; background-color: #6DB33F; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
+
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) 2 years  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <!-- <span style="width: 20%; font-size: 12px;">Express.js</span> -->
+    <div style="width: 80%; background-color: #000000; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
+
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) 1 year  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <!-- <span style="font-size:12px;">Progress</span> -->
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <!-- <span style="width: 20%; font-size: 12px;">Nest.js</span> -->
+    <div style="width: 60%; background-color: #E0234E; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
+
+---
 
 ### **Frontend Technologies**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  2 years  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <div style="width: 90%; background-color: #61DAFB; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
+
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  6 years  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <div style="width: 95%; background-color: #4FC08D; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  2 years  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <div style="width: 70%; background-color: #000000; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
+
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)  2 years  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <div style="width: 90%; background-color: #00C58E; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
+
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)  1 years  
+<div style="margin-top:-20px; margin-bottom:20px">
+  <div style="background-color: #e0e0e0; border-radius: 5px; padding: 1px; margin-top:-20px; display: flex; align-items: center;">
+    <div style="width: 90%; background-color: #1976D2; height: 8px; border-radius: 5px;"></div>
+  </div>
+</div>
 
 
+### **Backend Frameworks**
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 6 years  
+<div style="margin-top:-20px;">
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#FF2D20 0% 90%, #e0e0e0 90% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #FF2D20;">
+      90%
+    </div>
+  </div>
+</div>
+
+![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 2 years  
+<div style="margin-top:-20px;">
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#6DB33F 0% 85%, #e0e0e0 85% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #6DB33F;">
+      85%
+    </div>
+  </div>
+</div>
+
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) 2 years  
+<div style="margin-top:-20px;">
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#000000 0% 70%, #e0e0e0 70% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #000000;">
+      70%
+    </div>
+  </div>
+</div>
+
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) 1 year  
+<div style="margin-top:-20px;">
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#E0234E 0% 50%, #e0e0e0 50% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #E0234E;">
+      50%
+    </div>
+  </div>
+</div>
+
+
+
+---
 
 ### **CSS Framework**
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  8 years  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 2 years  
-![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)   1 years  
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)  1 years  
+<div style="margin-top:-20px; margin-bottom:20px;">
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#7952B3 0% 95%, #e0e0e0 95% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #7952B3;">
+      90%
+    </div>
+  </div>
+</div>
 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 2 years  
+<div style="margin-top:-20px; margin-bottom:20px;">
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#38B2AC 0% 90%, #e0e0e0 90% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #38B2AC;">
+      90%
+    </div>
+  </div>
+</div>
+
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)   1 years  
+<div style="margin-top:-20px; margin-bottom:20px;">
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#00D1B2 0% 80%, #e0e0e0 80% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #00D1B2;">
+      80%
+    </div>
+  </div>
+</div>
+
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)  1 years  
+<div style="margin-top:-20px; margin-bottom:20px;">
+  <span style="font-size:12px;">Progress</span>
+  <div style="position: relative; width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(#0081CB 0% 50%, #e0e0e0 50% 100%); display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; width: 80px; height: 80px; border-radius: 50%; background: white; display: flex; justify-content: center; align-items: center; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #0081CB;">
+      50%
+    </div>
+  </div>
+</div>
+
+
+---
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  

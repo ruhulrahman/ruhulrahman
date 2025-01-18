@@ -202,6 +202,9 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 <a href="mailto:ruhulrahman2233@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>  
+<a href="https://www.youtube.com/@RuhulAmin1402" target="_blank">
+  <img src="https://img.shields.io/badge/-Youtube-FF0033?style=flat-square&logo=youtube&logoColor=white" alt="Youtube">
+</a>  
 
 ---
 

@@ -189,30 +189,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with a stro
 
 ---
 
-![Java Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 2 years
-
-<svg width="100" height="100" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <circle
-    cx="18"
-    cy="18"
-    r="15.9155"
-    fill="none"
-    stroke="#e0e0e0"
-    stroke-width="3" />
-  <circle
-    cx="18"
-    cy="18"
-    r="15.9155"
-    fill="none"
-    stroke="#6DB33F"
-    stroke-width="3"
-    stroke-dasharray="85, 100"
-    transform="rotate(-90 18 18)" />
-  <text x="18" y="22" font-size="10" text-anchor="middle" fill="#6DB33F" font-family="Arial" font-weight="bold">
-    85%
-  </text>
-</svg>
-
 ## 📂 Featured Projects
 
 ### 🌐 **Web Projects**
